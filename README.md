@@ -174,12 +174,6 @@ project/
 <img width="1283" height="803" alt="ecommBot2" src="https://github.com/user-attachments/assets/4b2e4a66-de01-405a-af4e-61e2b0787483" />
 
 
-### Suggested Screenshots
-
-* Home Screen
-* FAQ Query Example
-* Product Search Example
-* Semantic Router Workflow
 
 ---
 
